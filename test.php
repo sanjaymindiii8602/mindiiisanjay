@@ -31,7 +31,7 @@
     echo "hello";
     echo  "demo";
     echo "demo2";
-    echo "test";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
+    echo "test";
     echo "demo2";
     echo "test";
     echo "hello";
@@ -39,7 +39,7 @@
     echo "demo2";
 
     echo "test";
-    echo "hello";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
+    echo "hello";
     echo "demo2";
     echo "test";
     echo "hello";
